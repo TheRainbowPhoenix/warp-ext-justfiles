@@ -1,0 +1,13 @@
+{
+  "type": "ext",
+  "group": "io.warp",
+  "artifact": "warp-ext-jfiles",
+  "version": "0.0.0",
+  "description": "Warp Just Files Extension",
+  "author": "Test",
+  "email": "test",
+  "license": "Apache-2.0",
+  "git": "https://github.com/test",
+  "tags": [ "WarpS", "Warp", "JFiles" ],
+  "repoUrl": "https://repo.maven.apache.org/maven2"
+}
